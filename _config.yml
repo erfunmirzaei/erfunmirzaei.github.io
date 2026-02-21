@@ -53,3 +53,12 @@ collections:
 # set this to true (though using a .bib file in the _bibliography folder is usually safer)
 scholar:
   source: google_scholar
+
+# -----------------------------------------------------------------------------
+# Third Party Libraries (Required for AL-Folio)
+# -----------------------------------------------------------------------------
+third_party_libraries:
+  mathjax:
+    enable: true
+  google_analytics:
+    enable: false
