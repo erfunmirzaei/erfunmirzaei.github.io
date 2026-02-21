@@ -21,7 +21,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/assets/pdf/CV_ErfanMirzaei_Feb2026_Europe.pdf";
           },
         },{id: "post-a-post-with-plotly-js",
         
