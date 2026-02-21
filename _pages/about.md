@@ -2,12 +2,12 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='https://csml.iit.it/'>Computational Statistics and Machine Learning</a>
+subtitle: <a href='https://csml.iit.it/'>Computational Statistics and Machine Learning Lab @ IIT</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: true # set to true if you want a circle crop
+  image: prof_pic.png
+  image_circular: false # set to true if you want a circle crop
   more_info: >
     <p>Stanserhorn, Switzerland.</p>
 
@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 
 Hi, I am Erfan Mirzaei. 
 
-I am a third-year Ph.D. student in Applied Mathematics and Machine Learning, proudly part of the [ELLIS](https://ellis.eu/) (European Laboratory for Learning and Intelligent Systems) network. My research is jointly conducted at the **Istituto Italiano di Tecnologia (CSML Lab)**, the **University of Genoa**, and **École Polytechnique**, where I am fortunate to be advised by Prof. [Massimiliano Pontil](https://scholar.google.com/citations?user=lcOacs8AAAAJ) and Prof. [Karim Lounici](https://klounici.github.io/).
+I am a third-year [ELLIS](https://ellis.eu/) Ph.D. student in Applied Mathematics and Machine Learning at Istituto Italiano di Tecnologia & École Polytechnique & Università di Genova. My research is jointly conducted at the **Istituto Italiano di Tecnologia (CSML Lab)**, the **University of Genoa**, and **École Polytechnique**, where I am fortunate to be advised by Prof. [Massimiliano Pontil](https://scholar.google.com/citations?user=lcOacs8AAAAJ) and Prof. [Karim Lounici](https://klounici.github.io/).
 
 ### Research
 
