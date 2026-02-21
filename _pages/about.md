@@ -13,7 +13,7 @@ profile:
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest blog posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -26,5 +26,4 @@ My overarching goal is to explain **why and how modern machine learning algorith
 
 Currently, I am investigating the generalization properties of stochastic dynamical systems—such as Gibbs and Langevin Monte Carlo algorithms—particularly within the interpolation regime. I am deeply interested in establishing rigorous, data-dependent theoretical bounds that hold up in complex, realistic settings.
 
----
 *If you are interested in discussing machine learning theory, deep learning theory, or potential collaborations, feel free to reach out via email!*
