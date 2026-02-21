@@ -35,7 +35,5 @@ Currently, I am investigating the generalization properties of stochastic dynami
 
 Before moving to Europe, I completed my M.Sc. in Artificial Intelligence and Robotics at the **University of Tehran** (graduating 2nd in my cohort), where I developed social learning algorithms for bandit problems using Free Energy principles. I also hold a B.Sc. in Mechanical Engineering from the University of Tehran, where I first transitioned into AI by applying reinforcement learning to smart environments.
 
-Beyond my core research, I actively serve as a reviewer for top-tier venues (NeurIPS, ICLR, AISTATS) and enjoy teaching, having served as a Teaching Assistant for the Neuromatch Academy in Computational Neuroscience. 
-
 ---
 *If you are interested in discussing machine learning theory, concentration of measure, or potential collaborations, feel free to reach out via email!*
