@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi, I am Erfan Mirzaei. 
 
-I am a third-year [ELLIS](https://ellis.eu/) Ph.D. student in Applied Mathematics and Machine Learning at Istituto Italiano di Tecnologia & École Polytechnique & Università di Genova. My research is jointly conducted at the **Istituto Italiano di Tecnologia (CSML Lab)**, the **University of Genoa**, and **École Polytechnique**, where I am fortunate to be advised by Prof. [Massimiliano Pontil](https://scholar.google.com/citations?user=lcOacs8AAAAJ) and Prof. [Karim Lounici](https://klounici.github.io/).
+I am a third-year [ELLIS](https://ellis.eu/) Ph.D. student in Applied Mathematics and Machine Learning at Istituto Italiano di Tecnologia & École Polytechnique & Università di Genova, where I am fortunate to be advised by Prof. [Massimiliano Pontil](https://scholar.google.com/citations?user=lcOacs8AAAAJ) and Prof. [Karim Lounici](https://klounici.github.io/).
 
 ### Research
 
@@ -35,4 +35,4 @@ Currently, I am investigating the generalization properties of stochastic dynami
 Before moving to Europe, I completed my M.Sc. in Artificial Intelligence and Robotics at the **University of Tehran** (graduating 2nd in my cohort), where I developed social learning algorithms for bandit problems using Free Energy principles. I also hold a B.Sc. in Mechanical Engineering from the University of Tehran, where I first transitioned into AI by applying reinforcement learning to smart environments.
 
 ---
-*If you are interested in discussing machine learning theory, concentration of measure, or potential collaborations, feel free to reach out via email!*
+*If you are interested in discussing machine learning theory, deep learning theory, or potential collaborations, feel free to reach out via email!*
