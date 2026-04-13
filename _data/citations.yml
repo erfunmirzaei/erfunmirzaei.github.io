@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-27'
+  last_updated: '2026-04-13'
 papers:
   mi-UCzUAAAAJ:LkGwnXOMwfcC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: Generalization of Gibbs and Langevin Monte Carlo Algorithms in the Interpolation Regime
     year: '2025'
   mi-UCzUAAAAJ:u-x6o8ySG0sC:
-    citations: 9
+    citations: 8
     title: 'BioLCNet: Reward-Modulated Locally Connected Spiking Neural Networks'
     year: '2022'
   mi-UCzUAAAAJ:ufrVoPGSRksC:
