@@ -1,9 +1,9 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-08-12'
 papers:
   mi-UCzUAAAAJ:LkGwnXOMwfcC:
     citations: 2
-    title: 'kooplearn: A Scikit-Learn Compatible Library of Algorithms for Evolution Operator Learning'
+    title: 'kooplearn: A scikit-learn compatible library of algorithms for evolution operator learning'
     year: '2025'
   mi-UCzUAAAAJ:W7OEmFMy1HYC:
     citations: 0
