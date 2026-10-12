@@ -1,12 +1,10 @@
 ---
-layout: /assets/pdf/CV_ErfanMirzaei_Feb2026_Europe.pdf
-permalink: /assets/pdf/CV_ErfanMirzaei_Feb2026_Europe.pdf
+layout: page
+permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: CV_ErfanMirzaei_Feb2026_Europe.pdf # you can also use external links here
-description:
-toc:
-  sidebar: left
+description: Download Erfan Mirzaei's curriculum vitae.
 ---
 
+You can download my [curriculum vitae as a PDF]({{ '/assets/pdf/CV_ErfanMirzaei_Oct2026.pdf' | relative_url }}).

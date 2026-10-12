@@ -17,13 +17,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi. I am a third-year [ELLIS](https://ellis.eu/) Ph.D. student in Applied Mathematics and Machine Learning at Istituto Italiano di Tecnologia & École Polytechnique & Università di Genova. I am fortunate to be advised by [Massimiliano Pontil](https://scholar.google.com/citations?user=lcOacs8AAAAJ) and [Karim Lounici](https://klounici.github.io/). 
+I am an [ELLIS](https://ellis.eu/) Ph.D. student in Applied Mathematics and Machine Learning at the [Istituto Italiano di Tecnologia](https://www.iit.it/), [École Polytechnique](https://www.polytechnique.edu/), and the [University of Genoa](https://unige.it/). I am fortunate to be advised by [Massimiliano Pontil](https://www.iit.it/it/people-profile/-/people/massimiliano-pontil), [Karim Lounici](https://klounici.github.io/), and [Andreas Maurer](http://www.andreas-maurer.eu/).
 
-My overarching goal is to explain **why and how modern machine learning algorithms generalize**. To bridge the gap between empirical success and statistical theory, I leverage advanced probability tools, specifically:
-* **Concentration Inequalities** 
-* **The PAC-Bayesian Framework**
-* **Information Theory**
+My research interests broadly lie in (machine/deep) learning theory, using tools from high-dimensional probability, information theory, optimization, and statistical physics. I am particularly interested in understanding why modern machine learning models generalize and in developing rigorous, data-dependent guarantees with practical implications.
 
-Currently, I am investigating the generalization properties of stochastic dynamical systems—such as Gibbs and Langevin Monte Carlo algorithms—particularly within the interpolation regime. I am deeply interested in establishing rigorous, data-dependent theoretical bounds that hold up in complex, realistic settings.
+More specifically, during my Ph.D., I study the generalization of overparameterized and stochastic models near the interpolation regime. I use PAC-Bayesian theory, statistical physics, and thermodynamic ideas to analyze Gibbs and Langevin algorithms, asking whether the training loss of a “hot” noisy model can indicate the generalization of a “cold” model. I also investigate related signals from early stopping, accumulated training loss, and weight decay.
 
 *If you are interested in discussing machine learning theory, deep learning theory, or potential collaborations, feel free to reach out via email!*
+
+I co-organize the [Learning Theory Circle](https://learning-theory-circle.github.io/), an online community for discussing learning theory and related topics in Persian. If you are interested in learning theory or related areas, please visit the website and [join us](https://learning-theory-circle.github.io/).
