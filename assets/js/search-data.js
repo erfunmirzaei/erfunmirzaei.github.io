@@ -18,10 +18,17 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "",
+          description: "Download Erfan Mirzaei&#39;s curriculum vitae.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/CV_ErfanMirzaei_Feb2026_Europe.pdf";
+            window.location.href = "/cv/";
+          },
+        },{id: "nav-teaching",
+          title: "Teaching",
+          description: "Teaching and tutorials in machine learning theory, computational neuroscience, and NeuroAI.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
           },
         },{id: "post-a-post-with-plotly-js",
         
