@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
-description: Teaching and tutorials in machine learning theory, computational neuroscience, and NeuroAI.
+title: 
+description: 
 nav: true
 nav_order: 6
 ---

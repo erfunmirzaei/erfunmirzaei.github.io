@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an [ELLIS](https://ellis.eu/) Ph.D. student in Applied Mathematics and Machine Learning at the [Istituto Italiano di Tecnologia](https://www.iit.it/), [École Polytechnique](https://www.polytechnique.edu/), and the [University of Genoa](https://unige.it/). I am fortunate to be advised by [Massimiliano Pontil](https://www.iit.it/it/people-profile/-/people/massimiliano-pontil), [Karim Lounici](https://klounici.github.io/), and [Andreas Maurer](http://www.andreas-maurer.eu/).
+I am an [ELLIS](https://ellis.eu/) Ph.D. student in Applied Mathematics and Machine Learning at the [Istituto Italiano di Tecnologia](https://www.iit.it/), [École Polytechnique](https://www.polytechnique.edu/), and the [Università di Genova](https://unige.it/). I am fortunate to be advised by [Massimiliano Pontil](https://www.iit.it/it/people-profile/-/people/massimiliano-pontil), [Karim Lounici](https://klounici.github.io/), and [Andreas Maurer](http://www.andreas-maurer.eu/).
 
 My research interests broadly lie in (machine/deep) learning theory, using tools from high-dimensional probability, information theory, optimization, and statistical physics. I am particularly interested in understanding why modern machine learning models generalize and in developing rigorous, data-dependent guarantees with practical implications.
 
