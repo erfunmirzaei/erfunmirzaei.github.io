@@ -25,4 +25,4 @@ More specifically, during my Ph.D., I study the generalization of overparameteri
 
 *If you are interested in discussing machine learning theory, deep learning theory, or potential collaborations, feel free to reach out via email!*
 
-I co-organize the [Learning Theory Circle](https://learning-theory-circle.github.io/), an online community for discussing learning theory and related topics in Persian. If you are interested in learning theory or related areas, please visit the website and [join us](https://learning-theory-circle.github.io/).
+I co-organize the [Learning Theory Circle](https://learning-theory-circle.github.io/), an online community for discussing learning theory and related topics in Persian. If you are interested, please visit the website and [join us](https://learning-theory-circle.github.io/).
